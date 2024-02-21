@@ -570,6 +570,99 @@ Nếu có nhiều bean cùng kiểu và không có `@Primary`, bạn có thể s
 
 ![1707071514629](image/README/1707071514629.png)
 
+##### Primary Key Generation Strategies
+
+![1708398124777](image/README/1708398124777.png)
+
+![1708398191770](image/README/1708398191770.png)
+
+![1708399093712](image/README/1708399093712.png)
+
+![1708399460116](image/README/1708399460116.png)
+
+![1708401011474](image/README/1708401011474.png)
+
+> Sự khác nhau giữa SEQUENCE và Table Generator là giá trị initialValue. Nếu là SEQUENCE nó sẽ lưu giá trị tiếp theo của dãy số vào table. Còn Table Generator sẽ lưu trữ giá trị cuối cùng đã được sử dụng vào table
+
+##### Spring Data JPA Repository Interface
+
+![1708413565396](image/README/1708413565396.png)
+
+Repository Interface
+
+![1708431004830](image/README/1708431004830.png)
+
+![1708413827428](image/README/1708413827428.png)
+
+##### Step To Create & Using Spring Data JPA
+
+![1708431623313](image/README/1708431623313.png)
+
+![1708431686450](image/README/1708431686450.png)
+
+![1708431740930](image/README/1708431740930.png)![1708431740930](image/README/1708431740930.png)
+
+![1708431997566](image/README/1708431997566.png)
+
+##### Spring Data JPA Details
+
+![1708433213202](image/README/1708433213202.png)
+
+![1708433468835](image/README/1708433468835.png)
+
+###### save() Method => update retrieve entity
+
+![1708433808008](image/README/1708433808008.png)
+
+###### findByID() Method
+
+![1708435541271](image/README/1708435541271.png)
+
+###### saveAll() method
+
+![1708436373893](image/README/1708436373893.png)
+
+###### findAll() method
+
+![1708436611595](image/README/1708436611595.png)
+
+###### deleteById() method
+
+![1708437350170](image/README/1708437350170.png)
+
+###### delete() Method
+
+![1708437488702](image/README/1708437488702.png)
+
+###### deleteAll() Method
+
+![1708437568644](image/README/1708437568644.png)
+
+###### count() Method
+
+![1708437641652](image/README/1708437641652.png)
+
+###### exitByID() method
+
+![1708437844912](image/README/1708437844912.png)
+
+##### Custom Query Method
+
+![1708437996484](image/README/1708437996484.png)
+
+![1708478100100](image/README/1708478100100.png)
+
+![1708492506434](image/README/1708492506434.png)
+
+![1708492636902](image/README/1708492636902.png)
+
+![1708492686518](image/README/1708492686518.png)
+
+![1708492926600](image/README/1708492926600.png)
+
+
+
+
 ##### Một số câu lệnh CLI dùng với MySQL
 
 ###### Show databases;
@@ -584,13 +677,29 @@ show databases;
  use <database name> ;
 ```
 
-###### Xem cấu trúc của database;
+###### Xem cấu trúc của một table trong database;
 
-```
+```bash
 describe <database table> ;
 ```
 
+###### Hiển thị các bảng của database;
 
+```bash
+show tables;
+```
+
+###### Xóa bảng
+
+```bash
+drop table <table name>;
+```
+
+
+
+#### Build A CRUD RESTAPIs
+
+![1708493895836](image/README/1708493895836.png)
 
 
 
