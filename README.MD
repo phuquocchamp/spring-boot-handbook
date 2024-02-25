@@ -5,6 +5,28 @@
 - [[NEW] Master Spring Boot 3 &amp; Spring Framework 6 with Java](https://iqbusiness.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/)
 - [[NEW] Spring Boot 3, Spring 6 &amp; Hibernate for Beginners](https://iqbusiness.udemy.com/course/spring-hibernate-tutorial/)
 
+#### 200 DAYS TO BECOME A JAVA DEV
+
+[Day 06](./day-06/readme.md)
+
+> DTO Partern
+>
+> Exception Handling
+>
+> Validation
+
+[Day 07](./day-07/readme.md)
+
+> Learn Spring Boot Actutor
+>
+> REST API Documentation
+>
+> Project 01 
+
+
+[Day 08](./day-08/readme.md)
+
+
 #### Một số nội dung cần nắm:
 
 ##### Java Core
@@ -660,9 +682,6 @@ Repository Interface
 
 ![1708492926600](image/README/1708492926600.png)
 
-
-
-
 ##### Một số câu lệnh CLI dùng với MySQL
 
 ###### Show databases;
@@ -695,15 +714,9 @@ show tables;
 drop table <table name>;
 ```
 
-
-
 #### Build A CRUD RESTAPIs
 
 ![1708493895836](image/README/1708493895836.png)
-
-
-
-
 
 #### ORM JPA vs Hibernate
 
