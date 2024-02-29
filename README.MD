@@ -24,7 +24,9 @@
 
 [Day 09](./day-09/readme.md)
 
-> Transactional [Code Demo](https://github.com/phuquocchamp/place-order-management)
+> Transactional 
+>
+> [Code Demo](https://github.com/phuquocchamp/place-order-management)
 >
 > Realtime Seach (@query) REST API
 >
@@ -34,8 +36,12 @@
 
 > Spring MVC Architect
 >
-> Thymeleaf [Code Demo](https://github.com/phuquocchamp/learn-thymeleaf.git)
+> Thymeleaf 
+>
+> [Code Demo](https://github.com/phuquocchamp/learn-thymeleaf.git)
 
 [Day 11](./day-11/readme.md)
 
 > Spring MVC - Student Management Project
+>
+> [Code Demo](https://github.com/phuquocchamp/student-management-system)
