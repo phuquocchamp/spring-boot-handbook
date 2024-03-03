@@ -24,7 +24,7 @@
 
 [Day 09](./day-09/readme.md)
 
-> Transactional 
+> Transactional
 >
 > [Code Demo](https://github.com/phuquocchamp/place-order-management)
 >
@@ -36,7 +36,7 @@
 
 > Spring MVC Architect
 >
-> Thymeleaf 
+> Thymeleaf
 >
 > [Code Demo](https://github.com/phuquocchamp/learn-thymeleaf.git)
 
@@ -45,3 +45,14 @@
 > Spring MVC - Student Management Project
 >
 > [Code Demo](https://github.com/phuquocchamp/student-management-system)
+
+[Day 12](./day-12/readme.md)
+
+> Learn Detail About Thymeleaf.
+>
+> Practice Registration & Login Project
+
+[Day 13](./day-13/readme.md)
+
+> Reactive Programing
+>
