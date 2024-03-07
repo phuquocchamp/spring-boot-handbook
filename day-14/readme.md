@@ -36,11 +36,41 @@ Microservices Architechture
 
 ###### Microservices Communication
 
+>  Khi ta làm việc với các services thì việc giao tiếp để lấy dữ liệu giữa các service cần được thực hiện theo các cách sau: 
+
 ![1709716972505](image/readme/1709716972505.png)
+
+###### RestTemplate --> Không khuyến khích sử dụng.
 
 ![1709717112068](image/readme/1709717112068.png)
 
 ![1709717139814](image/readme/1709717139814.png)
 
-
 ![1709717220488](image/readme/1709717220488.png)
+
+![1709751415652](image/readme/1709751415652.png)
+
+###### WebClient
+
+![1709751460629](image/readme/1709751460629.png)
+
+![1709821553064](image/readme/1709821553064.png)
+
+**WebClient Bean**
+
+![1709821502013](image/readme/1709821502013.png)
+
+**EmployeeServiceImpl.class**
+
+![1709821329600](image/readme/1709821329600.png)
+
+###### Spring Cloud
+
+![1709798034146](image/readme/1709798034146.png)
+
+
+![1709820725896](image/readme/1709820725896.png)
+
+**APIClient interface**
+
+![1709821581171](image/readme/1709821581171.png)
